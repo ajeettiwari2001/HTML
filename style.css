@@ -41,3 +41,19 @@ ul li a:hover {
 iframe{
 
 }
+.wrapper{
+    width: 100%;
+}
+h2{
+    font-size: 60px;
+    color: blue;
+    text-align: center;
+}
+
+.inline {
+    display: flex;
+}
+.paragraph{
+    margin-left:10px;
+    font-size: 50px;
+}
